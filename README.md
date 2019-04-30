@@ -1,6 +1,6 @@
 # nl2sql
 
-This is an adaptation of the ln2sql tool by  Jérémy Ferrero. The previous ln2sql tool is modified to work on a broader range of queries with less errors.
+This is an adaptation of the ***ln2sql*** tool by  ***Jérémy Ferrero***. The previous ln2sql tool is modified to work on a broader range of queries with less errors.
 
 * The changes made are
     * Removed the stopwords file and instead used the nltk.corpus stopwords.
